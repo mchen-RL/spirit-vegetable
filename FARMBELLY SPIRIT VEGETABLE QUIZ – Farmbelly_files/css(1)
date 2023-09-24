@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20201203093842im_/https://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 09:38:42 Dec 03, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:45:32 Sep 23, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.096
+  exclusion.robots.policy: 0.086
+  cdx.remote: 0.113
+  esindex: 0.009
+  LoadShardBlock: 4008.279 (6)
+  PetaboxLoader3.datanode: 1229.713 (7)
+  load_resource: 670.048
+  PetaboxLoader3.resolve: 627.417
+*/

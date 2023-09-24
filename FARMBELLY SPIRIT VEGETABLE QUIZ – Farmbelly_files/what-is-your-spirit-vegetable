@@ -1,0 +1,2802 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/2741/9410/files/vegetables-32_32x32.png?v=1519147043" type="image/png" />
+  
+
+  <!-- Title and description ================================================== -->
+  <title>
+  FARMBELLY SPIRIT VEGETABLE QUIZ &ndash; Farmbelly
+  </title>
+
+  
+  <meta name="description" content="Take the Farmbelly *Spirit Vegetable Quiz* and shop for custom spirit veggie tees, tanks, totes, and reuseable mugs. Farmbelly is an in-person and online cooking school where you learn how to grow, cook, and eat like a farmer!">
+  
+
+  <!-- Helpers ================================================== -->
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="Farmbelly">
+<meta property="og:url" content="https://farmbellyshop.com/pages/what-is-your-spirit-vegetable">
+<meta property="og:title" content="FARMBELLY SPIRIT VEGETABLE QUIZ">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Take the Farmbelly *Spirit Vegetable Quiz* and shop for custom spirit veggie tees, tanks, totes, and reuseable mugs. Farmbelly is an in-person and online cooking school where you learn how to grow, cook, and eat like a farmer!">
+
+<meta property="og:image" content="http://cdn.shopify.com/s/files/1/2741/9410/files/Social_Image_5-01_1200x1200.png?v=1525245034">
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/2741/9410/files/Social_Image_5-01_1200x1200.png?v=1525245034">
+
+
+  <meta name="twitter:site" content="@eatlikeafarmer">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="FARMBELLY SPIRIT VEGETABLE QUIZ">
+<meta name="twitter:description" content="Take the Farmbelly *Spirit Vegetable Quiz* and shop for custom spirit veggie tees, tanks, totes, and reuseable mugs. Farmbelly is an in-person and online cooking school where you learn how to grow, cook, and eat like a farmer!">
+
+  <link rel="canonical" href="https://farmbellyshop.com/pages/what-is-your-spirit-vegetable">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+  <meta name="theme-color" content="#1c77b0">
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/timber.scss.css?v=15740198072902939645" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/theme.scss.css?v=572045770671277071" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/style-dev.scss.css?v=137800306114308749" rel="stylesheet" type="text/css" media="all" />
+  
+  
+  
+  <link href="//fonts.googleapis.com/css?family=Lato:400" rel="stylesheet" type="text/css" media="all" />
+
+
+  
+
+
+  
+
+
+  <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+  <!-- Sections ================================================== -->
+  <script>
+    window.theme = window.theme || {};
+    theme.strings = {
+      zoomClose: "Close (Esc)",
+      zoomPrev: "Previous (Left arrow key)",
+      zoomNext: "Next (Right arrow key)",
+      moneyFormat: "${{amount}}",
+      addressError: "Error looking up that address",
+      addressNoResults: "No results for that address",
+      addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+      authError: "There was a problem authenticating your Google Maps account.",
+      cartEmpty: "Your cart is currently empty.",
+      cartCookie: "Enable cookies to use the shopping cart",
+      cartSavings: "I18n Error: Missing interpolation value \"savings\" for \"You're saving {{ savings }}\""
+    };
+    theme.settings = {
+      cartType: "drawer",
+      gridType: "collage"
+    };
+  </script>
+
+  <script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/jquery-2.2.3.min.js?v=5821186314690718683" type="text/javascript"></script>
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/lazysizes.min.js?v=3753175090111549529" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/lazysizes.min.js?v=3753175090111549529"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/theme.js?v=13795373996636476300" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/theme.js?v=13795373996636476300"></script><![endif]-->
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/27419410/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="bde4349bdaa37da4ec26a9002e14ceeb">
+<meta id="in-context-paypal-metadata" data-shop-id="27419410" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":27419410,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/27419410","merchantName":"Farmbelly","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo"],"total":{"type":"pending","label":"Farmbelly","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"bde4349bdaa37da4ec26a9002e14ceeb","betas":["rich-media-storefront-analytics"],"domain":"farmbellyshop.com","predictiveSearch":true,"shopId":27419410,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "farmbelly.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"Brooklyn - Mar 30 2018","id":19502891052,"theme_store_id":730,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "pay.shopify.com";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/0ee9e43833baf4d000cf8b27e\/2d54b0590fdcab9ae620f1900.js?shop=farmbelly.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":27419410,"offset":-28800,"reqid":"07893bd5-b8a9-4ab7-8c4d-270b3eeae431","pageurl":"farmbellyshop.com\/pages\/what-is-your-spirit-vegetable","s":"pages-2708013100","u":"00aaa22adc13","p":"page","rtyp":"page","rid":2708013100};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":2708013100}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1) {
+      return true;
+    }
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 27419410,
+      theme_id: 19502891052,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.3bc22f7b201bea3154c99666f2373bcf9a3e8fb1.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.3bc22f7b201bea3154c99666f2373bcf9a3e8fb1.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.3bc22f7b201bea3154c99666f2373bcf9a3e8fb1.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":27419410,"isMerchantRequest":null,"themeId":19502891052,"themeCityHash":"828767800746810380","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"isPixelGateEnabled":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Google Analytics":{"trackingId":"UA-116376879-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["144897642839502"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "storefront-renderer";
+        window.BOOMR.themeName = "Brooklyn";
+        window.BOOMR.themeVersion = "5.1.0";
+        window.BOOMR.shopId = 27419410;
+        window.BOOMR.themeId = 19502891052;
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({
+              producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({
+                producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+                ResourceTiming: {
+                  enabled: true,
+                  trackedResourceTypes: ["script", "img", "css"]
+                },
+              });
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":2708013100}
+        );
+      
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-68ba3f1321f00bf07cb78a03841621079812265e950cdccade3463749ea2705e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script>!function(e){e.addEventListener("DOMContentLoaded",function(){var t;null!==e.querySelector('form[action^="/contact"] input[name="form_type"][value="contact"]')&&(window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"},(t=e.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.1/index.js"),e.body.appendChild(t))})}(document);</script>
+<script integrity="sha256-JP8SIsmqE7shdlPA0+ooxAp5aigObaKa1CHuwqYHXIY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-24ff1222c9aa13bb217653c0d3ea28c40a796a280e6da29ad421eec2a6075c86.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-21b5dddfc8b64c1ad68cee3ba7448d1ffa15c24e969ebc1fbccf1a3784b659ad.js?v=20190107"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  <!-- /snippets/oldIE-js.liquid -->
+
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/respond.min.js?v=5224867783754261923" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//farmbellyshop.com/search?q=a2eda0f9dfaf5ee12fb248a7ed15cb77" id="respond-redirect" rel="respond-redirect" />
+<script src="//farmbellyshop.com/search?q=a2eda0f9dfaf5ee12fb248a7ed15cb77" type="text/javascript"></script>
+<![endif]-->
+
+
+<!--[if (lte IE 9) ]><script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/match-media.min.js?v=15963527692458216148" type="text/javascript"></script><![endif]-->
+
+
+  <script src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/modernizr.min.js?v=2139105474820643245" type="text/javascript"></script>
+
+  
+  
+
+</head>
+
+
+<body id="farmbelly-spirit-vegetable-quiz" class="template-page">
+
+  <div id="NavDrawer" class="drawer drawer--left">
+    <div id="shopify-section-drawer-menu" class="shopify-section"><div data-section-id="drawer-menu" data-section-type="drawer-menu-section">
+  <div class="drawer__inner drawer-left__inner">
+
+    
+
+    <ul class="mobile-nav">
+      
+        
+          <li class="mobile-nav__item">
+            <div class="mobile-nav__has-sublist">
+              <a
+                href="/pages/spirit-vegetable-shop"
+                class="mobile-nav__link"
+                id="Label-1"
+                >SHOP</a>
+              <div class="mobile-nav__toggle">
+                <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-1" aria-expanded="false">
+                  <span class="icon-fallback-text mobile-nav__toggle-open">
+                    <span class="icon icon-plus" aria-hidden="true"></span>
+                    <span class="fallback-text">Expand submenu SHOP</span>
+                  </span>
+                  <span class="icon-fallback-text mobile-nav__toggle-close">
+                    <span class="icon icon-minus" aria-hidden="true"></span>
+                    <span class="fallback-text">Collapse submenu SHOP</span>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <ul class="mobile-nav__sublist" id="Linklist-1" aria-labelledby="Label-1" role="navigation">
+              
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/pages/spirit-vegetable-shop"
+                    class="mobile-nav__link"
+                    >
+                      SPIRIT VEGETABLE SHOP
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/collections/farmbelly-merch"
+                    class="mobile-nav__link"
+                    >
+                      FARMBELLY SHOP
+                  </a>
+                </li>
+                
+              
+            </ul>
+          </li>
+
+          
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/what-is-your-spirit-vegetable"
+              class="mobile-nav__link"
+              aria-current="page">
+                TAKE THE QUIZ
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/about"
+              class="mobile-nav__link"
+              >
+                ABOUT
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/faqs"
+              class="mobile-nav__link"
+              >
+                FAQs
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="http://www.farmbelly.com/"
+              class="mobile-nav__link"
+              >
+                FARMBELLY
+            </a>
+          </li>
+
+        
+      
+      
+      <li class="mobile-nav__spacer"></li>
+
+      
+      
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/search">Search</a></li>
+      
+    </ul>
+    <!-- //mobile-nav -->
+  </div>
+</div>
+
+
+</div>
+  </div>
+  <div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+    <div class="drawer__fixed-header">
+      <div class="drawer__header">
+        <div class="drawer__title">Your cart</div>
+        <div class="drawer__close">
+          <button type="button" class="icon-fallback-text drawer__close-button js-drawer-close">
+            <span class="icon icon-x" aria-hidden="true"></span>
+            <span class="fallback-text">Close Cart</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="drawer__inner">
+      <div id="CartContainer" class="drawer__cart"></div>
+    </div>
+  </div>
+
+  <div id="PageContainer" class="page-container">
+
+    <div id="shopify-section-header" class="shopify-section"><style>
+  .site-header__logo img {
+    max-width: 300px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .site-header__logo img {
+      max-width: 100%;
+    }
+  }
+</style>
+
+
+<div data-section-id="header" data-section-type="header-section" data-template="page">
+  <div class="header-container">
+    <div class="header-wrapper">
+      
+
+      <header class="site-header" role="banner">
+        <div class="wrapper">
+          <div class="grid--full grid--table">
+            <div class="grid__item large--hide large--one-sixth one-quarter">
+              <div class="site-nav--open site-nav--mobile">
+                <button type="button" class="icon-fallback-text site-nav__link site-nav__link--burger js-drawer-open-button-left" aria-controls="NavDrawer">
+                  <span class="burger-icon burger-icon--top"></span>
+                  <span class="burger-icon burger-icon--mid"></span>
+                  <span class="burger-icon burger-icon--bottom"></span>
+                  <span class="fallback-text">Site navigation</span>
+                </button>
+              </div>
+            </div>
+            <div class="grid__item large--one-third medium-down--one-half">
+              
+              
+                <div class="h1 site-header__logo large--left" itemscope itemtype="http://schema.org/Organization">
+              
+                
+
+                
+                  <a href="/" itemprop="url" class="site-header__logo-link">
+                     <img src="//cdn.shopify.com/s/files/1/2741/9410/files/Farmbelly-alyternate-tagline_08b9ec50-881f-4f33-b9ba-ec2930ec83a3_300x.png?v=1520370310"
+                     srcset="//cdn.shopify.com/s/files/1/2741/9410/files/Farmbelly-alyternate-tagline_08b9ec50-881f-4f33-b9ba-ec2930ec83a3_300x.png?v=1520370310 1x, //cdn.shopify.com/s/files/1/2741/9410/files/Farmbelly-alyternate-tagline_08b9ec50-881f-4f33-b9ba-ec2930ec83a3_300x@2x.png?v=1520370310 2x"
+                     alt="Farmbelly"
+                     itemprop="logo">
+                  </a>
+                
+              
+                </div>
+              
+            </div>
+            <nav class="grid__item large--two-thirds large--text-right medium-down--hide" role="navigation">
+              
+              <!-- begin site-nav -->
+              <ul class="site-nav" id="AccessibleNav">
+                
+
+                
+                  
+                  
+                    <li
+                      class="site-nav__item site-nav--has-dropdown "
+                      aria-haspopup="true"
+                      data-meganav-type="parent">
+                      <a
+                        href="/pages/spirit-vegetable-shop"
+                        class="site-nav__link"
+                        data-meganav-type="parent"
+                        aria-controls="MenuParent-1"
+                        aria-expanded="false"
+                        >
+                          SHOP
+                          <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                      </a>
+                      <ul
+                        id="MenuParent-1"
+                        class="site-nav__dropdown "
+                        data-meganav-dropdown>
+                        
+                          
+                            <li>
+                              <a
+                                href="/pages/spirit-vegetable-shop"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  SPIRIT VEGETABLE SHOP
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/collections/farmbelly-merch"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  FARMBELLY SHOP
+                              </a>
+                            </li>
+                          
+                        
+                      </ul>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item site-nav--active">
+                      <a
+                        href="/pages/what-is-your-spirit-vegetable"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        aria-current="page">
+                          TAKE THE QUIZ
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/about"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          ABOUT
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/faqs"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          FAQs
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="http://www.farmbelly.com/"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          FARMBELLY
+                      </a>
+                    </li>
+                  
+                
+
+                
+
+                
+                  
+                  
+                  <li class="site-nav__item site-nav__item--compressed">
+                    <a href="/search" class="site-nav__link site-nav__link--icon js-toggle-search-modal" data-mfp-src="#SearchModal">
+                      <span class="icon-fallback-text">
+                        <span class="icon icon-search" aria-hidden="true"></span>
+                        <span class="fallback-text">Search</span>
+                      </span>
+                    </a>
+                  </li>
+                
+
+                <li class="site-nav__item site-nav__item--compressed">
+                  <a href="/cart" class="site-nav__link site-nav__link--icon cart-link js-drawer-open-button-right" aria-controls="CartDrawer">
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-cart" aria-hidden="true"></span>
+                      <span class="fallback-text">Cart</span>
+                    </span>
+                    <span class="cart-link__bubble"></span>
+                  </a>
+                </li>
+
+              </ul>
+              <!-- //site-nav -->
+            </nav>
+            <div class="grid__item large--hide one-quarter">
+              <div class="site-nav--mobile text-right">
+                <a href="/cart" class="site-nav__link cart-link js-drawer-open-button-right" aria-controls="CartDrawer">
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-cart" aria-hidden="true"></span>
+                    <span class="fallback-text">Cart</span>
+                  </span>
+                  <span class="cart-link__bubble"></span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </header>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+    
+
+    <main class="main-content" role="main">
+      
+        <div class="wrapper">
+      
+        <!-- /templates/page.quiz.liquid -->
+<div id="shopify-section-page-quiz" class="shopify-section"><div class="grid">
+  <div class="grid__item large--five-sixths push--large--one-twelfth">
+
+    <header class="section-header text-center">
+      <h1>SPIRIT VEGETABLE QUIZ</h1>
+      <hr class="hr--small">
+    </header>
+
+    <div class="grid">
+      <div class="grid__item large--four-fifths push--large--one-tenth">
+        
+
+
+        
+        <div class="quiz_main">
+          <div class="rte rte--nomargin">
+            <div class="quiz_start">
+              <h1>What is your spirit vegetable?</h1>
+              <a href="javascript:void(0)" class="btn take_quiz">Take the Quiz</a>
+            </div>
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>It's been a long week and you gotta recharge, what do you do?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-1" value="A" type="radio" name="quiz-1"/>
+                  <label for="quiz-1-1"><p>A) Call up my pals and hit the town to meet and mingle.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-1" value="B" type="radio" name="quiz-1"/>
+                  <label for="quiz-2-1"><p>B) Throw on some PJ's and binge watch my favorite new show with my bestie.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>Which best describes your morning routine?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-2" value="A" type="radio" name="quiz-2"/>
+                  <label for="quiz-1-2"><p>A) Slow and steady wins the race. I take my time to stretch, read, and reflect before jumping into the day.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-2" value="B" type="radio" name="quiz-2"/>
+                  <label for="quiz-2-2"><p>B) Early bird gets the worm. I jump out of bed, fuel up, and I'm ready to tackle the day.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>What is your favorite season?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-3" value="A" type="radio" name="quiz-3"/>
+                  <label for="quiz-1-3"><p>A) Winter</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-3" value="B" type="radio" name="quiz-3"/>
+                  <label for="quiz-2-3"><p>B) Spring</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-3-3" value="C" type="radio" name="quiz-3"/>
+                  <label for="quiz-3-3"><p>C) Summer</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-4-3" value="D" type="radio" name="quiz-3"/>
+                  <label for="quiz-4-3"><p>D) Fall</p></label>
+                </div>
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>You and some friends have come up with an amazing new business idea. What's your role?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-4" value="A" type="radio" name="quiz-4"/>
+                  <label for="quiz-1-4"><p>A) I dream big and create a vision/mood board... someone else can figure out the details.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-4" value="B" type="radio" name="quiz-4"/>
+                  <label for="quiz-2-4"><p>B) I'm the voice of reason and write detailed to-do lists + action items.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>It's your first day at a new job. What's your move?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-5" value="A" type="radio" name="quiz-5"/>
+                  <label for="quiz-1-5"><p>A) I make sure to meet and learn the names of every single one of my new co-workers.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-5" value="B" type="radio" name="quiz-5"/>
+                  <label for="quiz-2-5"><p>B) I mostly keep to myself and observe the office dynamics... I'll get to know everyone eventually.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>Which of the following statements is more true for you?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-6" value="A" type="radio" name="quiz-6"/>
+                  <label for="quiz-1-6"><p>A) I'm a Jack / Jill of all trades and I've mastered the art of multi-tasking.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-6" value="B" type="radio" name="quiz-6"/>
+                  <label for="quiz-2-6"><p>B) I'm at my best when deeply focused on one thing, rather than jumping from task to task.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>How would you describe the contents of your closet?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-7" value="A" type="radio" name="quiz-7"/>
+                  <label for="quiz-1-7"><p>A) It's a kaleidoscope of color.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-7" value="B" type="radio" name="quiz-7"/>
+                  <label for="quiz-2-7"><p>B) Neutrals make my heart pitter patter.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>You're at a boisterous party. What's your move?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-8" value="A" type="radio" name="quiz-8"/>
+                  <label for="quiz-1-8"><p>A) I'll just be over here at the snack table catching up with my friends.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-8" value="B" type="radio" name="quiz-8"/>
+                  <label for="quiz-2-8"><p>B) You can find me in the middle of the dance floor... where else would I be?</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>Which member of the canine family do you most identify with?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-9" value="A" type="radio" name="quiz-9"/>
+                  <label for="quiz-1-9"><p>A) Wolf. I do my own thing most of the time, but have a loyal tribe to back me up when I need support.</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-9" value="B" type="radio" name="quiz-9"/>
+                  <label for="quiz-2-9"><p>B) Golden Retriever. I'm happiest when I'm surrounded by all kinds of people.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="quiz_outer quiz_hide">
+              <h3><p>You have a whole day to yourself, without a single thing on your calendar. What's your reaction?</p></h3>
+              <div class="quiz_content">
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-1-10" value="A" type="radio" name="quiz-10"/>
+                  <label for="quiz-1-10"><p>A) Hmmm. Who should I text to hang out with and enjoy this beautiful day?</p></label>
+                </div>
+                
+                
+                <div class="input_each input_another_each">
+                  <input id="quiz-2-10" value="B" type="radio" name="quiz-10"/>
+                  <label for="quiz-2-10"><p>B) Hot damn. I'm stoked for some solo time to think, wander and recharge.</p></label>
+                </div>
+                
+                
+                
+
+              </div>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+          </div>
+          <div class="resultProduct" style="display: none;">
+            <!--a href="https://farmbellyshop.com"><img src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/tagline_400x.png?v=17058594409109218693" style="width:280px; height:auto;"/></a-->
+            <a href="https://farmbellyshop.com"><img src="//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/tagline_800x.png?v=17058594409109218693" style="width:280px; height:auto;"/></a>
+           
+            <div class="grid" style="margin-top: 50px;">
+              <div class="grid__item large--one-half res_imag">
+				<img src=""/>
+              </div>
+              <div class="grid__item large--one-half">
+                 <h1></h1>
+                <div class="resultBody"></div>
+                
+            <div class="grid resLink">
+				<br/>
+				<a href="/" class="btn btn-shopn">SHOP NOW</a>
+              <div class="grid__item one-whole">
+                <!--a href="/">Take me to the Spirit Vegetable Shop</a-->
+               <br/>
+			    <p style="font-size: 18px;"> <strong>Visit the Farmbelly shop to purchase your spirit vegetable swag!</strong><br/>
+                  <small><em>A portion of proceeds from every purchase will be donated to the <a class="prompt-link" href="https://edibleschoolyard.org/" style="color:rgba(28,119,176,1)" target="_blank">Edible Schoolyard Project.</a></em></small></p>
+				  
+                <img class="img-responsive tie_img" style="margin:10px auto; max-width:200px; " src="https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-c357db99_590x.jpg?v=1522989284" alt="">
+                <br/>
+               <!--p style="font-size: 20px;"> Want some swag to show your spirit vegetable pride?</p-->
+               
+                
+              </div>
+            </div>
+                
+              </div>
+            </div>
+            
+            <!--div class="grid resLink">
+              <div class="grid__item one-whole">
+                <!--a href="/">Take me to the Spirit Vegetable Shop</a-->
+               <!--p> Want some swag to show your spirit vegetable pride?</p>
+                <a href="/" class="btn btn-shopn">SHOP NOW</a>
+              </div>
+            </div-->
+            
+            <!-- /snippets/social-sharing.liquid -->
+
+
+<div class="social-sharing clean">
+
+  
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=https://farmbellyshop.com" class="share-facebook" title="Share on Facebook">
+      <span class="icon icon-facebook" aria-hidden="true"></span>
+      <span class="share-title" aria-hidden="true">Share</span>
+      <span class="visually-hidden">Share on Facebook</span>
+    </a>
+  
+
+  
+    <a target="_blank" href="//twitter.com/share?text=&amp;url=https://farmbellyshop.com" class="share-twitter" title="Tweet on Twitter">
+      <span class="icon icon-twitter" aria-hidden="true"></span>
+      <span class="share-title" aria-hidden="true">Tweet</span>
+      <span class="visually-hidden">Tweet on Twitter</span>
+    </a>
+  
+
+  
+    <a target="_blank" href="//pinterest.com/pin/create/button/?url=https://farmbellyshop.com&amp;media=//cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif&amp;description=" class="share-pinterest" title="Pin on Pinterest">
+      <span class="icon icon-pinterest" aria-hidden="true"></span>
+      <span class="share-title" aria-hidden="true">Pin it</span>
+      <span class="visually-hidden">Pin on Pinterest</span>
+    </a>
+  
+
+</div>
+
+            
+          </div>
+        </div>
+        
+
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+<script> 
+  var resArr = [];
+  var resCon = [];
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  resArr.push("A,B,B,B,A,B,B,A,B,A|Asparagus|//cdn.shopify.com/s/files/1/2741/9410/files/vegetables-36_large.png?v=1523528388|With bright green shoots shooting up from the ground in early spring, asparagus is a joyful force to be reckoned with. Standing tall and surrounded by their fellow stalks, asparagus thrives on the energy of others. These deeply rooted spears waste no time putting their big dreams into action, when they hit their stride, these puppies can grow more than 6 inches a day! Combine this can-do attitude with a joyful personality and down-to-earth sensibility - and what's not to love?|/collections/asparagus || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,A,A,B,A,A|Avocado|//cdn.shopify.com/s/files/1/2741/9410/files/Avocado_1-01_1_large.png?v=1523528666|Though technically a fruit... avocados don't necessarily play by the rules, so what the heck. Avocados are colorful, full of life, and they have a knack for getting along with just about everyone. From avocado toast to smoothies to salad dressings to guacamole - avocados are multi-talented creatures who seem to excel wherever their passions lead. These summer loving fruits may have super soft flesh when ripe, but they also have an undeniably strong core and aren't afraid to stand up for what's right. Keep calm and guac on!|/collections/avocado || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,A,A,B,A,B|Avocado|//cdn.shopify.com/s/files/1/2741/9410/files/Avocado_1-01_1_large.png?v=1523528666|Though technically a fruit... avocados don't necessarily play by the rules, so what the heck. Avocados are colorful, full of life, and they have a knack for getting along with just about everyone. From avocado toast to smoothies to salad dressings to guacamole - avocados are multi-talented creatures who seem to excel wherever their passions lead. These summer loving fruits may have super soft flesh when ripe, but they also have an undeniably strong core and aren't afraid to stand up for what's right. Keep calm and guac on!|/collections/avocado || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,A,A,B,A,C|Avocado|//cdn.shopify.com/s/files/1/2741/9410/files/Fruits-13_large.png?v=1519145290|Though technically a fruit... avocados don't necessarily play by the rules, so what the heck. Avocados are colorful, full of life, and they have a knack for getting along with just about everyone. From avocado toast to smoothies to salad dressings to guacamole - avocados are multi-talented creatures who seem to excel wherever their passions lead. These summer loving fruits may have super soft flesh when ripe, but they also have an undeniably strong core and aren't afraid to stand up for what's right. Keep calm and guac on!|/collections/avocado || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,A,A,A,A,A,A|Beets|//cdn.shopify.com/s/files/1/2741/9410/files/Beet_5c-01_1_large.png?v=1523528918|Beets are one heck of a multi-faceted vegetable - with a naturally sweet, earthy flavor that's fabulous whether cooked sweet or savory, and with edible roots and greens! When you pull this rather introverted root veggie out of the ground and wash off the dirt, you'll find beets are actually full of spunk, vibrance, and they know how to rock a fabulous flash of color. Beets are grounded, to the point, and don't need to be the center of attention - making them incredibly loyal and dependable members of their tribes.|/collections/beets || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,A,A,A,A|Beets|//cdn.shopify.com/s/files/1/2741/9410/files/Beet_5c-01_1_large.png?v=1523528918|Beets are one heck of a multi-faceted vegetable - with a naturally sweet, earthy flavor that's fabulous whether cooked sweet or savory, and with edible roots and greens! When you pull this rather introverted root veggie out of the ground and wash off the dirt, you'll find beets are actually full of spunk, vibrance, and they know how to rock a fabulous flash of color. Beets are grounded, to the point, and don't need to be the center of attention - making them incredibly loyal and dependable members of their tribes.|/collections/beets || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,A,A,A,A,A,B|Beets|//cdn.shopify.com/s/files/1/2741/9410/files/Beet_5c-01_1_large.png?v=1523528918|Beets are one heck of a multi-faceted vegetable - with a naturally sweet, earthy flavor that's fabulous whether cooked sweet or savory, and with edible roots and greens! When you pull this rather introverted root veggie out of the ground and wash off the dirt, you'll find beets are actually full of spunk, vibrance, and they know how to rock a fabulous flash of color. Beets are grounded, to the point, and don't need to be the center of attention - making them incredibly loyal and dependable members of their tribes.|/collections/beets || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,A,A,A,B|Beets|//cdn.shopify.com/s/files/1/2741/9410/files/Beet_5c-01_1_large.png?v=1523528918|Beets are one heck of a multi-faceted vegetable - with a naturally sweet, earthy flavor that's fabulous whether cooked sweet or savory, and with edible roots and greens! When you pull this rather introverted root veggie out of the ground and wash off the dirt, you'll find beets are actually full of spunk, vibrance, and they know how to rock a fabulous flash of color. Beets are grounded, to the point, and don't need to be the center of attention - making them incredibly loyal and dependable members of their tribes.|/collections/beets || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,A,A,A,A,A,C|Beets|//cdn.shopify.com/s/files/1/2741/9410/files/Beet_5c-01_1_large.png?v=1523528918|Beets are one heck of a multi-faceted vegetable - with a naturally sweet, earthy flavor that's fabulous whether cooked sweet or savory, and with edible roots and greens! When you pull this rather introverted root veggie out of the ground and wash off the dirt, you'll find beets are actually full of spunk, vibrance, and they know how to rock a fabulous flash of color. Beets are grounded, to the point, and don't need to be the center of attention - making them incredibly loyal and dependable members of their tribes.|/collections/beets || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,A,A,A,C|Beets|//cdn.shopify.com/s/files/1/2741/9410/files/Beet_5c-01_1_large.png?v=1523528918|Beets are one heck of a multi-faceted vegetable - with a naturally sweet, earthy flavor that's fabulous whether cooked sweet or savory, and with edible roots and greens! When you pull this rather introverted root veggie out of the ground and wash off the dirt, you'll find beets are actually full of spunk, vibrance, and they know how to rock a fabulous flash of color. Beets are grounded, to the point, and don't need to be the center of attention - making them incredibly loyal and dependable members of their tribes.|/collections/beets || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,A,A,B,A,A,B|Broccoli|//cdn.shopify.com/s/files/1/2741/9410/files/Broccoli-01_1_large.png?v=1523529232|The vegetable kingdom wouldn't be the same without broccoli - a quiet, fiercely independent, and iconic vegetable. This member of the brassica family thrives in cool spring and fall weather, and it goes through life without being in a hurry... it takes time to grow those impressive crowns ya know! Think broccoli is a one trick pony? Think again. Those bodacious stems are edible (and delicious + highly nutritious), so don't you dare underestimate them.|/collections/broccoli || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,B,A,A,B|Broccoli|//cdn.shopify.com/s/files/1/2741/9410/files/Broccoli-01_1_large.png?v=1523529232|The vegetable kingdom wouldn't be the same without broccoli - a quiet, fiercely independent, and iconic vegetable. This member of the brassica family thrives in cool spring and fall weather, and it goes through life without being in a hurry... it takes time to grow those impressive crowns ya know! Think broccoli is a one trick pony? Think again. Those bodacious stems are edible (and delicious + highly nutritious), so don't you dare underestimate them.|/collections/broccoli || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,A,A,B,A,B,A|Butternut squash|//cdn.shopify.com/s/files/1/2741/9410/files/Butternut-01_1_large.png?v=1523529500|Though a little mysterious on the outside... once you roast butternut squash, you'll find these puppies are filled with more sweet goodness than a cup of honey. Sweet or savory, roasted or steamed, cubed or pureed - butternut squash is a master of many talents, though this grounded individual doesn't need to be the center of attention. Butternut squash is a member of the cucurbit family, which characteristically grows on vines alongside other family members. So while introverted butternuts need a little alone time now and then, they cherish being surrounded by their tribe and making the world a sweeter place.|/collections/butternut-squash || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,A,A,B,A,B,B|Butternut squash|//cdn.shopify.com/s/files/1/2741/9410/files/Butternut-01_1_large.png?v=1523529500|Though a little mysterious on the outside... once you roast butternut squash, you'll find these puppies are filled with more sweet goodness than a cup of honey. Sweet or savory, roasted or steamed, cubed or pureed - butternut squash is a master of many talents, though this grounded individual doesn't need to be the center of attention. Butternut squash is a member of the cucurbit family, which characteristically grows on vines alongside other family members. So while introverted butternuts need a little alone time now and then, they cherish being surrounded by their tribe and making the world a sweeter place.|/collections/butternut-squash || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,B,A,A,A,A,A|Cabbage|//cdn.shopify.com/s/files/1/2741/9410/files/Cabbage-01_1_large.png?v=1523529720|Cabbage thrives in cool weather, which is probably why it has all those layers to peel back! Once you get to know this humble member of the brassica family, you'll find a thoughtful, grounded individual who loves to get cozy and hibernate. While you may initially overlook it in the produce section, cabbage is a seriously versatile and industrious vegetable that is delicious shredded raw (tacos, anyone?), grilled, or braised for hours until it caramelizes into a sweet, luscious heap. You heard it here first: Cabbage is bringing sexy back.|/collections/cabbage || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,B,A,A,A,A,A|Cabbage|//cdn.shopify.com/s/files/1/2741/9410/files/Cabbage-01_1_large.png?v=1523529720|Cabbage thrives in cool weather, which is probably why it has all those layers to peel back! Once you get to know this humble member of the brassica family, you'll find a thoughtful, grounded individual who loves to get cozy and hibernate. While you may initially overlook it in the produce section, cabbage is a seriously versatile and industrious vegetable that is delicious shredded raw (tacos, anyone?), grilled, or braised for hours until it caramelizes into a sweet, luscious heap. You heard it here first: Cabbage is bringing sexy back.|/collections/cabbage || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,B,A,A,A,A,B|Cabbage|//cdn.shopify.com/s/files/1/2741/9410/files/Cabbage-01_1_large.png?v=1523529720|Cabbage thrives in cool weather, which is probably why it has all those layers to peel back! Once you get to know this humble member of the brassica family, you'll find a thoughtful, grounded individual who loves to get cozy and hibernate. While you may initially overlook it in the produce section, cabbage is a seriously versatile and industrious vegetable that is delicious shredded raw (tacos, anyone?), grilled, or braised for hours until it caramelizes into a sweet, luscious heap. You heard it here first: Cabbage is bringing sexy back.|/collections/cabbage || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,B,A,A,A,A,B|Cabbage|//cdn.shopify.com/s/files/1/2741/9410/files/Cabbage-01_1_large.png?v=1523529720|Cabbage thrives in cool weather, which is probably why it has all those layers to peel back! Once you get to know this humble member of the brassica family, you'll find a thoughtful, grounded individual who loves to get cozy and hibernate. While you may initially overlook it in the produce section, cabbage is a seriously versatile and industrious vegetable that is delicious shredded raw (tacos, anyone?), grilled, or braised for hours until it caramelizes into a sweet, luscious heap. You heard it here first: Cabbage is bringing sexy back.|/collections/cabbage || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,A,A,A,B,A,A|Carrot|//cdn.shopify.com/s/files/1/2741/9410/files/Carrot-01_1_large.png?v=1523529948|These colorful root veggies live happily nestled underground, which means they crave time alone to re-energize and to tune into their creative side. But when colorful carrots finally emerge above ground, they are a fabulous force to be reckoned with. Delicious whether prepared either sweet and savory, raw, steamed, roasted, or baked into a cake - this root veggie can do it all. And don't forgot about those beautiful carrot tops, which can be used to make veggie stock, pesto, or a fancy gremolata. Carrots hustle hard and get the job done, but they're also known to kick-start spontaneous dance parties. Work hard, play hard - am I right?!|/collections/carrot || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,A,B,A,A|Carrot|//cdn.shopify.com/s/files/1/2741/9410/files/Carrot-01_1_large.png?v=1523529948|These colorful root veggies live happily nestled underground, which means they crave time alone to re-energize and to tune into their creative side. But when colorful carrots finally emerge above ground, they are a fabulous force to be reckoned with. Delicious whether prepared sweet or savory, raw, steamed, roasted, or baked into a cake - this root veggie can do it all. And don't forget about those beautiful carrot tops, which can be used to make veggie stock, pesto, or a fancy gremolata. Carrots hustle hard and get the job done, but they're also known to kick-start spontaneous dance parties. Work hard, play hard - am I right?!|/collections/carrot || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,A,A,A,B,A,B|Carrot|//cdn.shopify.com/s/files/1/2741/9410/files/Carrot-01_1_large.png?v=1523529948|These colorful root veggies live happily nestled underground, which means they crave time alone to re-energize and to tune into their creative side. But when colorful carrots finally emerge above ground, they are a fabulous force to be reckoned with. Delicious whether prepared sweet or savory, raw, steamed, roasted, or baked into a cake - this root veggie can do it all. And don't forget about those beautiful carrot tops, which can be used to make veggie stock, pesto, or a fancy gremolata. Carrots hustle hard and get the job done, but they're also known to kick-start spontaneous dance parties. Work hard, play hard - am I right?!|/collections/carrot || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,A,B,A,B|Carrot|//cdn.shopify.com/s/files/1/2741/9410/files/Carrot-01_1_large.png?v=1523529948|These colorful root veggies live happily nestled underground, which means they crave time alone to re-energize and to tune into their creative side. But when colorful carrots finally emerge above ground, they are a fabulous force to be reckoned with. Delicious whether prepared sweet or savory, raw, steamed, roasted, or baked into a cake - this root veggie can do it all. And don't forget about those beautiful carrot tops, which can be used to make veggie stock, pesto, or a fancy gremolata. Carrots hustle hard and get the job done, but they're also known to kick-start spontaneous dance parties. Work hard, play hard - am I right?!|/collections/carrot || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,A,A,B,A,A,B|Cauliflower|//cdn.shopify.com/s/files/1/2741/9410/files/Cauliflower-01_1_large.png?v=1523530128|Cauliflower - so hot right now! But really. From cauliflower rice, to cauliflower steaks, cauliflower pizza, etc - is there anything that this multi-talented vegetable can not do? But cauliflower does not let the all hype get to its head - this member of the brassica family remains grounded, humble, and hardworking. As if cauliflower could not get any cooler... this veggie also has fantastic style and rocks a neutral color palette like a BOSS.|/collections/cauliflower || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,A,A,B,A,A,B|Cauliflower|//cdn.shopify.com/s/files/1/2741/9410/files/Cauliflower-01_1_large.png?v=1523530128|Cauliflower - so hot right now! But really. From cauliflower rice, to cauliflower steaks, cauliflower pizza, etc - is there anything that this multi-talented vegetable can not do? But cauliflower does not let the all hype get to its head - this member of the brassica family remains grounded, humble, and hardworking. As if cauliflower could not get any cooler... this veggie also has fantastic style and rocks a neutral color palette like a BOSS.|/collections/cauliflower || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,B,A,A,B,B,A|Corn|//cdn.shopify.com/s/files/1/2741/9410/files/Corn_3-01_1_large.png?v=1523530330|Vivacious and bursting with life, corn is sunshine in vegetable form. This member of the grass (poaceae) family takes an average of three months to reach its full potential - which means it enjoys life one step at a time, especially by soaking up long summer days with leisurely al fresco meals. While this extroverted vegetable loves being surrounded by people, sometimes it needs time alone to recharge beneath those leafy layers of husk. Whether enjoyed sweet or savory, baked into cornbread, ground into grits, or straight off the cob - corn is one of the most dynamic and beloved members of the vegetable kingdom.|/collections/corn || ");
+              
+  
+  
+  
+  
+  resArr.push("A,B,C,A,A,B,B,A,B,A|Cucumber|//cdn.shopify.com/s/files/1/2741/9410/files/Cucumber_1-01_1_large.png?v=1523530531|There's a reason for the adage cool as a cucumber... this summer-loving vegetable is laid back, gregarious, and goes with the flow. Cucumbers grow closely alongside their fellow cukes on long, twisting vines, and they thrive when surrounded by members of their tribe. Cucumber vines grow best when trellised to climb skyward, so they tend to be visionaries who shoot for the moon. Cucumbers are fast and prolific producers once their vines begin to fruit... there's no wasting the day for this early bird!|/collections/cucumber || ");
+              
+  
+  
+  
+  
+  resArr.push("A,B,C,A,A,B,B,A,B,B|Cucumber|//cdn.shopify.com/s/files/1/2741/9410/files/Cucumber_1-01_1_large.png?v=1523530531|There's a reason for the adage cool as a cucumber... this summer-loving vegetable is laid back, gregarious, and goes with the flow. Cucumbers grow closely alongside their fellow cukes on long, twisting vines, and they thrive when surrounded by members of their tribe. Cucumber vines grow best when trellised to climb skyward, so they tend to be visionaries who shoot for the moon. Cucumbers are fast and prolific producers once their vines begin to fruit... there's no wasting the day for this early bird!|/collections/cucumber || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,B,A,A,A,A|Eggplant|//cdn.shopify.com/s/files/1/2741/9410/files/Eggplant-01_1_large.png?v=1523531718|Eggplant is an exotic, sun-worshipping, mysterious member of the nightshade family. Actually, if we're being botanically correct, eggplant is a fruit, but this enigmatic creature isn't afraid to re-write the rules in pursuit of passion. Eggplant has a meaty interior that needs time and high heat to be fully appreciated, and don't be surprised if you find this pensive veggie daydreaming out the window. Just give eggplant a good long roast in the oven and it will transform into a sweet, luscious treat that's hard not to love. Baba ganoush anyone?|/collections/eggplant || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,B,A,A,A,B|Eggplant|//cdn.shopify.com/s/files/1/2741/9410/files/Eggplant-01_1_large.png?v=1523531718|Eggplant is an exotic, sun-worshipping, mysterious member of the nightshade family. Actually, if we're being botanically correct, eggplant is a fruit, but this enigmatic creature isn't afraid to re-write the rules in pursuit of passion. Eggplant has a meaty interior that needs time and high heat to be fully appreciated, and don't be surprised if you find this pensive veggie daydreaming out the window. Just give eggplant a good long roast in the oven and it will transform into a sweet, luscious treat that's hard not to love. Baba ganoush anyone?|/collections/eggplant || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,B,B,B,B,B,A,A,B|Fennel|//cdn.shopify.com/s/files/1/2741/9410/files/Fennel-01_1_large.png?v=1523530675|There's a lot to love behind the many layers that make up a unique, subtly-sweet bulb of fennel. It takes some time to peel back those layers, but once this introverted veggie has time to open up, you'll find fennel is grounded, driven, and has a heart brimming with passion. Fennel thrives in the cooler weather during spring and fall, and you'll often find it soaking up the crisp air on long, meandering strolls outside. You don't come across fennel everyday, which makes this quietly confident vegetable all the more mysterious and memorable.|/collections/fennel || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,D,B,B,B,B,A,A,B|Fennel|//cdn.shopify.com/s/files/1/2741/9410/files/Fennel-01_1_large.png?v=1523530675|There's a lot to love behind the many layers that make up a unique, subtly-sweet bulb of fennel. It takes some time to peel back those layers, but once this introverted veggie has time to open up, you'll find fennel is grounded, driven, and has a heart brimming with passion. Fennel thrives in the cooler weather during spring and fall, and you'll often find it soaking up the crisp air on long, meandering strolls outside. You don't come across fennel everyday, which makes this quietly confident vegetable all the more mysterious and memorable.|/collections/fennel || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,B,B,B,B,B,A,A,C|Fennel|//cdn.shopify.com/s/files/1/2741/9410/files/Fennel-01_1_large.png?v=1523530675|There's a lot to love behind the many layers that make up a unique, subtly-sweet bulb of fennel. It takes some time to peel back those layers, but once this introverted veggie has time to open up, you'll find fennel is grounded, driven, and has a heart brimming with passion. Fennel thrives in the cooler weather during spring and fall, and you'll often find it soaking up the crisp air on long, meandering strolls outside. You don't come across fennel everyday, which makes this quietly confident vegetable all the more mysterious and memorable.|/collections/fennel || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,D,B,B,B,B,A,A,C|Fennel|//cdn.shopify.com/s/files/1/2741/9410/files/Fennel-01_1_large.png?v=1523530675|There's a lot to love behind the many layers that make up a unique, subtly-sweet bulb of fennel. It takes some time to peel back those layers, but once this introverted veggie has time to open up, you'll find fennel is grounded, driven, and has a heart brimming with passion. Fennel thrives in the cooler weather during spring and fall, and you'll often find it soaking up the crisp air on long, meandering strolls outside. You don't come across fennel everyday, which makes this quietly confident vegetable all the more mysterious and memorable.|/collections/fennel || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,B,A,B,B,A,B|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Garlic_1-01_1_large.png?v=1523532125|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,B,A,B,B,A,B|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Garlic_1-01_1_large.png?v=1523532125|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,C,B,B,A,B,B,A,B|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Garlic_1-01_1_large.png?v=1523532125|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,B,A,B,B,A,B|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Garlic_1-01_1_large.png?v=1523532125|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,B,A,B,B,A,C|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Garlic_1-01_1_large.png?v=1523532125|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,B,A,A,B,B,B|Corn|//cdn.shopify.com/s/files/1/2741/9410/files/vegetables-51_large.png?v=1519145967|Vivacious and bursting with life, corn is sunshine in vegetable form. This member of the grass (poaceae) family takes an average of three months to reach its full potential - which means it enjoys life one step at a time, especially by soaking up long summer days with leisurely al fresco meals. While this extroverted vegetable loves being surrounded by people, sometimes it needs time alone to recharge beneath those leafy layers of husk. Whether enjoyed sweet or savory, baked into cornbread, ground into grits, or straight off the cob - corn is one of the most dynamic and beloved members of the vegetable kingdom.|/collections/corn || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,B,A,B,B,A,C|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Spice-07_large.png?v=1519146797|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,C,B,B,A,B,B,A,C|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Spice-07_large.png?v=1519146797|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,B,A,B,B,A,C|Garlic|//cdn.shopify.com/s/files/1/2741/9410/files/Spice-07_large.png?v=1519146797|Garlic is an introvert at heart that lives most of its life underground, but when it finally emerges from the soil, it fills every room with festivity and flavor. Planted in the fall and harvested in the heat of summer, garlic takes time to grow, and has a knack for being very thoughtful and intentional. Throughout its long growing season, this member of the onion (allium) family forms many cloves and layers of creamy white skin surrounding each bulb, so it can take a little extra time for this veggie to open up. But once garlic sheds its skin and lets loose, it's hard not to love this multi-faceted vegetable that brings a fabulous zest for life wherever it goes.|/collections/garlic || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,A,A,B,A,B|Jalapeno Pepper|//cdn.shopify.com/s/files/1/2741/9410/files/Jalapeno_2-01_1_large.png?v=1523532542|It's no surprise that Jalapeño Peppers are the life of the party. Whether they are fried, stuffed, pickled, jellied, or eaten raw - this member of the pepper (capsicum) family is highly versatile and adds a spicy kick to any situation. Jalapeños thrive in warm summer months, so you're likely to find them on a hot summer day next to a body of water with a cold margarita in hand. It takes time and heat before peppers are ready for harvesting, which gives them ample time to dream up and act on their big dreams and passions. Jalapeño's aren't afraid to embrace their vibrant, fun-loving selves around everyone they meet... did we mention they make one heck of a wedding date?|/collections/jalapeno-pepper || ");
+              
+  
+  
+  
+  
+  resArr.push("A,A,C,A,A,A,A,B,A,C|Jalapeno Pepper|//cdn.shopify.com/s/files/1/2741/9410/files/Jalapeno_2-01_1_large.png?v=1523532542|It's no surprise that Jalapeño Peppers are the life of the party. Whether they are fried, stuffed, pickled, jellied, or eaten raw - this member of the pepper (capsicum) family is highly versatile and adds a spicy kick to any situation. Jalapeños thrive in warm summer months, so you're likely to find them on a hot summer day next to a body of water with a cold margarita in hand. It takes time and heat before peppers are ready for harvesting, which gives them ample time to dream up and act on their big dreams and passions. Jalapeño's aren't afraid to embrace their vibrant, fun-loving selves around everyone they meet... did we mention they make one heck of a wedding date?|/collections/jalapeno-pepper || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,B,B,A,A,A,A,A,B|Kale|//cdn.shopify.com/s/files/1/2741/9410/files/Kale_1-01_1_1_large.png?v=1523532781|This leafy member of the brassica family is chock full of complexity and nuance, which makes it much more than just a passing hipster trend. From Red Russian to Siberian to Tuscan, Redbor, Winterbore (and many more)... each variety of kale has its own unique personality and vibrant color palette. Kale is humble and possesses a strong central stem that gives it the strength to stand with conviction when the going gets tough. Kale is a quick-growing and highly productive crop, and it wastes no time jumping into the day and tackling the day's to-do list with gusto. Whether massaged into a salad, sautéed, scrambled with eggs, or oven roasted into kale chips... don't underestimate this multi-faceted veggie, which is sure to win over hearts wherever it goes.|/collections/kale || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,D,B,A,A,A,A,A,B|Kale|//cdn.shopify.com/s/files/1/2741/9410/files/Kale_1-01_1_1_large.png?v=1523532781|This leafy member of the brassica family is chock full of complexity and nuance, which makes it much more than just a passing hipster trend. From Red Russian to Siberian to Tuscan, Redbor, Winterbore (and many more)... each variety of kale has its own unique personality and vibrant color palette. Kale is humble and possesses a strong central stem that gives it the strength to stand with conviction when the going gets tough. Kale is a quick-growing and highly productive crop, and it wastes no time jumping into the day and tackling the day's to-do list with gusto. Whether massaged into a salad, sautéed, scrambled with eggs, or oven roasted into kale chips... don't underestimate this multi-faceted veggie, which is sure to win over hearts wherever it goes.|/collections/kale || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,A,B,A,B,A,B|Kholrabi|//cdn.shopify.com/s/files/1/2741/9410/files/Kholrabi-01_1_large.png?v=1523532965|A little funky and chock full of character, kohlrabi is one of a kind. This member of the brassica family has a bulbous root surrounded by leafy stems in vibrant green and purple hues. The edible root (which tastes similar to a broccoli stem) lives much of its life below ground and relishes quiet time to recharge before hitting the town. Kohlrabi is grounded, independent, and hard working, and it prefers to pursue few passions like a honey badger, rather than being spread too thin on dozens of different projects. There's no other vegetable (or fruit, for that matter) quite like kohlrabi, and this bodacious brassica embraces its unique flair and lives by its own colorful rules.|/collections/kohlrabi || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,A,B,B,A,B,B,A,B|Onion|//cdn.shopify.com/s/files/1/2741/9410/files/Onion-01_1_large.png?v=1523533096|Don't underestimate the humble + hardworking onion! This member of the allium family brings a zest for life (and a few teary eyes) wherever it goes. The industrious onion forms the basis of any good sauce, soup, stew, or sauté - making this veggie a total work horse and master of many talents. After a long day of hustling and making the world a more delicious place, this underground veggie cherishes solo time to read, relax and recharge. Onions come in a dizzying array of sizes, shapes and colors - and they make every day a new, delectable adventure.|/collections/onion || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,B,B,B,A,B,B,A,B|Onion|//cdn.shopify.com/s/files/1/2741/9410/files/Onion-01_1_large.png?v=1523533096|Don't underestimate the humble + hardworking onion! This member of the allium family brings a zest for life (and a few teary eyes) wherever it goes. The industrious onion forms the basis of any good sauce, soup, stew, or sauté - making this veggie a total work horse and master of many talents. After a long day of hustling and making the world a more delicious place, this underground veggie cherishes solo time to read, relax and recharge. Onions come in a dizzying array of sizes, shapes and colors - and they make every day a new, delectable adventure.|/collections/onion || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,C,B,B,A,B,B,A,B|Onion|//cdn.shopify.com/s/files/1/2741/9410/files/Onion-01_1_large.png?v=1523533096|Don't underestimate the humble + hardworking onion! This member of the allium family brings a zest for life (and a few teary eyes) wherever it goes. The industrious onion forms the basis of any good sauce, soup, stew, or sauté - making this veggie a total work horse and master of many talents. After a long day of hustling and making the world a more delicious place, this underground veggie cherishes solo time to read, relax and recharge. Onions come in a dizzying array of sizes, shapes and colors - and they make every day a new, delectable adventure.|/collections/onion || ");
+              
+  
+  
+  
+  
+  resArr.push("B,A,D,B,B,A,B,B,A,B|Onion|//cdn.shopify.com/s/files/1/2741/9410/files/Onion-01_1_large.png?v=1523533096|Don't underestimate the humble + hardworking onion! This member of the allium family brings a zest for life (and a few teary eyes) wherever it goes. The industrious onion forms the basis of any good sauce, soup, stew, or sauté - making this veggie a total work horse and master of many talents. After a long day of hustling and making the world a more delicious place, this underground veggie cherishes solo time to read, relax and recharge. Onions come in a dizzying array of sizes, shapes and colors - and they make every day a new, delectable adventure.|/collections/onion || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,B,B,A,B,A,B,A,C|Breakfast Radish|//cdn.shopify.com/s/files/1/2741/9410/files/FrenchBreakfastRadish-01_1_large.png?v=1523531934|Radishes strike the perfect balance between spicy sass and sophisticated class. With its #millennialpink ombre coloring, this petite veggie makes a colorful splash wherever it goes. As a root veggie that spends most of its time underground, radishes enjoy their privacy - but once you get them out on the town, they end up being the life of the party! This quick growing crop thrives on crisp, cool mornings, and it knows how to get sh*t done with crystal-clear focus and a can-do attitude. With a distinctive peppery kick that's delicious whether topped on a taco, thinly sliced on a salads, or even dipped in soft butter with flakey sea salt... radishes are the spice of life.|/collections/radish || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,D,B,A,B,A,B,A,C|Breakfast Radish|//cdn.shopify.com/s/files/1/2741/9410/files/FrenchBreakfastRadish-01_1_large.png?v=1523531934|Radishes strike the perfect balance between spicy sass and sophisticated class. With its #millennialpink ombre coloring, this petite veggie makes a colorful splash wherever it goes. As a root veggie that spends most of its time underground, radishes enjoy their privacy - but once you get them out on the town, they end up being the life of the party! This quick growing crop thrives on crisp, cool mornings, and it knows how to get sh*t done with crystal-clear focus and a can-do attitude. With a distinctive peppery kick that's delicious whether topped on a taco, thinly sliced on a salads, or even dipped in soft butter with flakey sea salt... radishes are the spice of life.|/collections/radish || ");
+              
+  
+  
+  
+  
+  resArr.push("A,B,B,A,A,B,A,B,B,B|Sugar Snap Pea|//cdn.shopify.com/s/files/1/2741/9410/files/SugarSnapPeas-01_1_large.png?v=1523533311|Sugar snap peas are one of the most beloved and anticipated spring vegetables. After the depths of a dark winter, who can resist those crunchy, sweet, and vibrant green pods? Once they get going, peas are fast and prolific producers - the type to jump out of bed and seize the day! Sugar snap peas thrive in tightly knit rows among their surrounding pea tribe, and they rely on trellises to support their curling, fast-growing tendrils. Sugar snap peas have big dreams that they chase with gusto - but when the going gets tough, they are made stronger by leaning on their community trellis for support.|/collections/sugar-snap-pea || ");
+              
+  
+  
+  
+  
+  resArr.push("A,B,D,A,A,B,A,B,B,B|Sugar Snap Pea|//cdn.shopify.com/s/files/1/2741/9410/files/SugarSnapPeas-01_1_large.png?v=1523533311|Sugar snap peas are one of the most beloved and anticipated spring vegetables. After the depths of a dark winter, who can resist those crunchy, sweet, and vibrant green pods? Once they get going, peas are fast and prolific producers - the type to jump out of bed and seize the day! Sugar snap peas thrive in tightly knit rows among their surrounding pea tribe, and they rely on trellises to support their curling, fast-growing tendrils. Sugar snap peas have big dreams that they chase with gusto - but when the going gets tough, they are made stronger by leaning on their community trellis for support.|/collections/sugar-snap-pea || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,B,B,A,A,A,A,A,A|Swiss Chard|//cdn.shopify.com/s/files/1/2741/9410/files/SwissChard_2-01_1_large.png?v=1523533544|Move over kale... swiss chard is the cool new leafy green on the block. Swiss chard has vibrantly colored stems that nurture a strong backbone and courageous spirit. Swiss chard is surprisingly versatile and adaptable, as the greens (and stems!) can be enjoyed raw in salads, sautéed alongside other veggies and eggs, whipped into pesto, added to smoothies, or even roasted into crispy chips. Grounded and easy going, swiss chard may not be the loudest voice in the room, but behind the scenes this quick-growing vegetable knows how to hustle and get the job done. Armed with beauty, brains, and a can-do spirit... swiss chard is one vegetable that shouldn't be underestimated!|/collections/swiss-chard || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,D,B,A,A,A,A,A,A|Swiss Chard|//cdn.shopify.com/s/files/1/2741/9410/files/SwissChard_2-01_1_large.png?v=1523533544|Move over kale... swiss chard is the cool new leafy green on the block. Swiss chard has vibrantly colored stems that nurture a strong backbone and courageous spirit. Swiss chard is surprisingly versatile and adaptable, as the greens (and stems!) can be enjoyed raw in salads, sautéed alongside other veggies and eggs, whipped into pesto, added to smoothies, or even roasted into crispy chips. Grounded and easy going, swiss chard may not be the loudest voice in the room, but behind the scenes this quick-growing vegetable knows how to hustle and get the job done. Armed with beauty, brains, and a can-do spirit... swiss chard is one vegetable that shouldn't be underestimated!|/collections/swiss-chard || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,B,B,A,A,A,A,A,B|Swiss Chard|//cdn.shopify.com/s/files/1/2741/9410/files/SwissChard_2-01_1_large.png?v=1523533544|Move over kale... swiss chard is the cool new leafy green on the block. Swiss chard has vibrantly colored stems that nurture a strong backbone and courageous spirit. Swiss chard is surprisingly versatile and adaptable, as the greens (and stems!) can be enjoyed raw in salads, sautéed alongside other veggies and eggs, whipped into pesto, added to smoothies, or even roasted into crispy chips. Grounded and easy going, swiss chard may not be the loudest voice in the room, but behind the scenes this quick-growing vegetable knows how to hustle and get the job done. Armed with beauty, brains, and a can-do spirit... swiss chard is one vegetable that shouldn't be underestimated!|/collections/swiss-chard || ");
+              
+  
+  
+  
+  
+  resArr.push("B,B,D,B,A,A,A,A,A,B|Swiss Chard|//cdn.shopify.com/s/files/1/2741/9410/files/SwissChard_2-01_1_large.png?v=1523533544|Move over kale... swiss chard is the cool new leafy green on the block. Swiss chard has vibrantly colored stems that nurture a strong backbone and courageous spirit. Swiss chard is surprisingly versatile and adaptable, as the greens (and stems!) can be enjoyed raw in salads, sautéed alongside other veggies and eggs, whipped into pesto, added to smoothies, or even roasted into crispy chips. Grounded and easy going, swiss chard may not be the loudest voice in the room, but behind the scenes this quick-growing vegetable knows how to hustle and get the job done. Armed with beauty, brains, and a can-do spirit... swiss chard is one vegetable that shouldn't be underestimated!|/collections/swiss-chard || ");
+              
+  
+  
+  
+  
+  resArr.push("A,B,C,A,A,A,A,B,B,B|Tomato|//cdn.shopify.com/s/files/1/2741/9410/files/Tomato_3-01_1_large.png?v=1523533745|The tomato is a heat-loving vegetable (technically a fruit, but I won't tell if you don't..) that is outspoken, charming, and endlessly entertaining. Tomatoes love a good party, which is convenient because they tend to be the life of any gathering. Tomatoes come in all shapes, sizes, and colors - making each day a new adventure when this member of the nightshade family is around. They jump out of bed with more energy than a rabbit on Redbull, and they excel and focusing that intensity to fuel big dreams and their many passions.|/collections/tomato || ");
+              
+  
+  
+              
+   var optArr = [];
+   
+  
+   console.log(resArr);
+  $(document).ready(function(){
+   // $('.input_each input:radio').on('change', function(){
+      //$(document).on("change",".input_each  input:radio",function(){ 
+      $(document).on("change",".input_another_each  input:radio",function(){ 
+      //$(this).parents('.quiz_outer').addClass('quiz_hide');
+      //$(this).parents('.quiz_outer').next('.quiz_outer').removeClass('quiz_hide');
+      
+      $(this).parents('.quiz_outer').hide();
+      
+      $(this).parents('.quiz_outer').next('.quiz_outer').fadeIn(500, function() {
+        //$(this).parents('.quiz_outer').next('.quiz_outer').removeClass('quiz_hide');
+      });
+
+      
+      
+      var val = $(this).val();
+      optArr.push(val);
+      //console.log(optArr.toString());
+      
+      if($(this).parents('.quiz_outer').is(':last-child')){
+      //console.log('test');
+        var tieArr = [];
+        var user_scores = []; 
+        for(var i = 0; i< resArr.length; i++){ 
+          var j = resArr[i].split('|'); console.log(j);
+          
+          //Answer key
+          var answer_key = j[0].split(',');
+          //User Answer
+          var user_answer = optArr.toString().split(',');
+          //console.log('answer key:'+answer_key);
+          //console.log('user_answer:'+user_answer);
+          var score = 0;
+          for(index=0;index<answer_key.length;index++){
+            if(answer_key[index]==user_answer[index]){
+            	score = score + 1;
+            }
+          
+          }
+          user_scores[i]=score;
+          
+          /*if(j[0] == optArr.toString()){
+          console.log('ddff');
+          tieArr.push(j);
+          console.log(j[1]);  
+          console.log(j[2]);  
+          console.log(j[3]); 
+          console.log(j[4]); 
+          console.log('deug');
+          var k = j;
+          /*$('.resultProduct h1').html('<a href="'+ j[4]  +'">'+ j[1] + '</a>');  
+          $('.resultProduct .grid img').attr('src', j[2]);  
+          $('.resultProduct .resultBody').html(j[3]);          
+          $('.resultProduct .resLink a').attr('href', j[4]);          
+          $('.resultProduct').fadeIn('slow');
+          $('.quiz_main').css('background-image', 'none');*/              
+          //}
+        } //console.log(tieArr);console.log(tieArr.length);
+       // console.log('user_scores:'+user_scores);
+       // console.log(user_answer);
+        var max_score = Math.max.apply(Math,user_scores);
+        //console.log(max_score);
+        if(max_score==10){
+          var score_index = 0;
+          for(k=0;k<user_scores.length;k++){
+          
+            if(user_scores[k]==10){
+               var data = resArr[k].split('|');
+            	tieArr.push(data);
+            }
+          } 
+          
+        } else{
+          
+          var score_index = 0;
+          for(k=0;k<user_scores.length;k++){
+          
+            if(user_scores[k]==max_score){
+               var data = resArr[k].split('|');
+            	tieArr.push(data);
+            }
+          }
+        
+        }
+        
+        //Tie Occurs
+        if(tieArr.length==1){ console.log('1. facebook social'+$('.share-facebook').attr('href'));
+                             console.log(tieArr[0][4]);
+          var base_url = $('.share-facebook').attr('href');
+          
+          $('.resultProduct h1').html('<a href="'+ tieArr[0][4]  +'">'+ tieArr[0][1] + '</a>');  
+          $('.resultProduct .grid img').attr('src', tieArr[0][2]);  
+          $('.resultProduct .resultBody').html(tieArr[0][3]);          
+          $('.resultProduct .resLink a').attr('href', tieArr[0][4]);
+          $('.share-facebook').attr('href',base_url+''+tieArr[0][4]);
+          var tie_img = get_tie_img(tieArr[0][1]);
+          $('.tie_img').attr('src', tie_img);
+          $('.resultProduct').fadeIn('slow');
+          $('.quiz_main').css('background-image', 'none');
+          $('.prompt-link').attr('href','https://edibleschoolyard.org/');
+          
+        }  
+        else if(tieArr.length>1){ console.log('tie breaker questions');console.log(tieArr);
+         
+          var dup = [];
+          for(var i = 0; i< tieArr.length; i++){
+            
+            dup.push(tieArr[i][1]);
+          
+          }
+          
+          var uniqueNames = [];
+          $.each(dup, function(i, el){
+              if($.inArray(el, uniqueNames) === -1) uniqueNames.push(el);
+          });
+          
+         if(uniqueNames.length==1){ console.log('1. facebook social'+$('.share-facebook').attr('href'));
+           console.log(tieArr[0][4]);
+           var base_url = $('.share-facebook').attr('href');
+          $('.resultProduct h1').html('<a href="'+ tieArr[0][4]  +'">'+ tieArr[0][1] + '</a>');  
+          $('.resultProduct .grid img').attr('src', tieArr[0][2]);  
+          $('.resultProduct .resultBody').html(tieArr[0][3]);          
+          $('.resultProduct .resLink a').attr('href', tieArr[0][4]);
+          $('.share-facebook').attr('href',base_url+''+tieArr[0][4]);
+          var tie_img = get_tie_img(tieArr[0][1]);
+          $('.tie_img').attr('src', tie_img);
+          $('.resultProduct').fadeIn('slow');
+          $('.quiz_main').css('background-image', 'none');
+          $('.prompt-link').attr('href','https://edibleschoolyard.org/');
+          return false;
+           
+                                 
+         } 
+                                 	
+          
+          var track_questions = [];
+          tie_break_mode = 1;
+          
+          var html = '<div class="quiz_outer extra-div"><h3><p>Which would you rather eat?</p></h3>';
+          html += '<div class="quiz_content">';
+          var seq_var = 0;
+          for(var i = 0; i< tieArr.length; i++){ //console.log('tieques'+tieArr[i]);
+          	//console.log(tieArr[i][0]+"/"+tieArr[i][1]+"/"+tieArr[i][2]+"/"+tieArr[i][3]);
+            var exist = 0;
+           	var question = tieArr[i][1]; //console.log('question'+question);
+            if(i>0){
+              for(var v=0;v<track_questions.length;v++){ //console.log(track_questions[v]);
+                if(track_questions[v]==question){
+                  exist = 1;
+                  break;
+                }
+              }
+            }
+             
+            if(exist==1){
+              continue;
+            }
+            
+            
+           
+            var seq = '';
+            if(seq_var==0){
+              seq = "A)";
+            }
+            if(seq_var==1){
+              seq = "B)";
+            }
+            if(seq_var==2){
+              seq = "C)";
+            }
+            if(seq_var==3){
+              seq = "D)";
+            }
+            if(seq_var==4){
+              seq = "E)";
+            }
+            if(seq_var==5){
+              seq = "F)";
+            }
+            if(seq_var==6){
+              seq = "G)";
+            }
+            if(seq_var==7){
+              seq = "H)";
+            }
+            if(seq_var==8){
+              seq = "I)";
+            }
+            if(seq_var==9){
+              seq = "J)";
+            }
+            if(seq_var==10){
+              seq = "K)";
+            }
+            if(seq_var==11){
+              seq = "L)";
+            }
+            if(seq_var==12){
+              seq = "M)";
+            }
+            if(seq_var==13){
+              seq = "N)";
+            }
+            if(seq_var==14){
+              seq = "O)";
+            }
+            if(seq_var==15){
+              seq = "P)";
+            }
+            if(seq_var==16){
+              seq = "Q)";
+            }
+            if(seq_var==17){
+              seq = "R)";
+            }
+            if(seq_var==18){
+              seq = "S)";
+            }
+            if(seq_var==19){
+              seq = "T)";
+            }
+            if(seq_var==20){
+              seq = "U)";
+            } 
+            //console.log(seq);
+            
+            track_questions.push(question);
+            seq_var = seq_var + 1;
+           console.log('qu'+question);
+            var option = '';
+            if(question =="Asparagus"){
+            	var option = "I'll take anything tender+green topped with crispy fried egg.";
+            }
+            
+            if(question =="Avocado"){
+            	var option = "A Mexican feast with all the dips and tortilla chips.";
+            }
+            
+            if(question =="Beets"){
+            	var option = "A hearty and colorful potato + root veggie hash.";
+            }
+            if(question =="Broccoli"){
+            	var option = "A hearty, veggie-filled casserole cooked low and slow - with lots of cheese please!";
+            }
+            if(question =="Butternut squash"){
+            	var option = "A warming bowl of winter squash soup topped with creme fraiche and toasted hazelnuts.";
+            }
+            if(question =="Cabbage"){
+            	var option = "A hefty side of homemade slaw (ideally alongside some killer BBQ).";
+            }
+            if(question =="Carrot"){
+            	var option = "A colorful crudite platter full of crunchy raw veggies.";
+            }
+            if(question =="Cauliflower"){
+            	var option = "A rich and flavorful coconut vegetable curry";
+            }
+            if(question =="Corn"){
+            	var option = "A summer picnic with all the yummy sides and fresh squeezed lemonade.";
+            }
+            if(question =="Cucumber"){
+            	var option = "Pickles. Give me all the pickles!";
+            }
+            if(question =="Eggplant"){
+            	var option = "A mediterranean platter filled with hummus, babaganoush, and pita bread.";
+            }
+            if(question =="Fennel"){
+            	var option = "An instagram-worthy salad with lots of herbs and a rainbow of thinly sliced farmers' market veggies.";
+            }
+            if(question =="Garlic"){
+            	var option = "A thick slab of rosemary focaccia bread, slathered in olive oil.";
+            }
+            if(question =="Jalapeno Pepper"){
+            	var option = "As long as it's spicy, I don't care!";
+            }
+            if(question =="Kale"){
+            	var option = "A 'buddha bowl' filled with veggies, beans, greens, and a killer sauce.";
+            }
+            if(question =="Kohlrabi" || question =="Kholrabi"){
+            	var option = "I'm all about those weird, but strangly addicting veggie chips.";
+            }
+            if(question =="Onion"){
+            	var option = "A steaming pan of paella, bursting with a cornucopia of veggies, seafood, and spices.";
+            }
+            if(question =="French Breakfast Radish"){
+            	var option = "A thick + toasted piece of sourdough bread topped with butter and flakey sea salt.";
+            }
+            if(question =="Sugar Snap Pea"){
+            	var option = "A thick + toasted piece of sourdough bread topped with butter and flakey sea salt.";
+            }
+            if(question =="French Breakfast Radish" || question =="Breakfast Radish" || question =="Radish"){
+            	var option = "A creamy bowl of risotto with heaps of parmesan, lemon, and spring veggies.";
+            }
+            if(question =="Swiss Chard"){
+            	var option = "A morning frittata filled with heaps of greens.";
+            }
+            if(question =="Tomato"){
+            	var option = "Pizza! Duh."; 					
+            }
+            if(option!=''){ console.log(tieArr[i][3]);
+              
+                var option_seq = seq+" "+option; 
+                option = option_seq;
+                html += '<div class="input_each"><input data-j1="'+tieArr[i][1]+'" data-j2="'+tieArr[i][2]+'" data-j3="'+tieArr[i][3]+'" data-j4="'+tieArr[i][4]+'" data-j5="'+tieArr[i][5]+'" onChange="tie_breaker(this)" id="breaker_'+i+'" type="radio" value="'+question+'"/><label for="breaker_'+i+'">';
+                html += '<p>';
+                html += option;
+                html += '</p></label></div>';
+            }
+            
+            else if(question != '' && option==''){
+              
+                var option_seq = seq+" "+option; 
+            	option = option_seq;
+             	html += '<div class="input_each"><input data-j1="'+tieArr[i][1]+'" data-j2="'+tieArr[i][2]+'" data-j3="'+tieArr[i][3]+'" data-j4="'+tieArr[i][4]+'"  data-j5="'+tieArr[i][5]+'" onChange="tie_breaker(this)" id="breaker_'+i+'" type="radio" value="'+question+'"/><label for="breaker_'+i+'">';
+              	html += '<p>';
+              	html += option;
+              	html += '</p></label></div>';
+            }
+              
+                
+            
+                                              
+          
+          }
+          
+          html += '</div>';
+          $('.rte').append(html);
+        }
+        //if($('.resultProduct h1').html() == ''){
+        else { 
+          var item = resArr[Math.floor(Math.random()*resArr.length)];
+          var l = item.split('|'); console.log('1. facebook social'+$('.share-facebook').attr('href'));
+          console.log(tieArr[0][4]);
+          var base_url = $('.share-facebook').attr('href');
+          $('.share-facebook').attr('href',l[4]);
+          $('.resultProduct h1').html('<a href="'+ l[4]  +'">'+ l[1] + '</a>');  
+          $('.resultProduct .grid img').attr('src', l[2]);  
+          $('.resultProduct .resultBody').html(l[3]); 
+          $('.resultProduct .resLink a').attr('href',base_url+''+l[4]); 
+          var tie_img = get_tie_img(l[1]);
+          $('.tie_img').attr('src', tie_img);
+          $('.resultProduct').fadeIn('slow');          
+          $('.quiz_main').css('background-image', 'none'); 
+          $('.prompt-link').attr('href','https://edibleschoolyard.org/');
+        }
+        
+      }
+      
+    });
+    
+    $('.take_quiz').on('click', function(){
+      $('.quiz_start').hide();
+      $('.quiz_outer:first').removeClass('quiz_hide');
+    });
+  });
+  function get_tie_img(question){ 
+                                 
+            var option = "";
+    
+      		if(question =="Asparagus"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-c357db99_590x.jpg?v=1522989284";
+            }
+            
+            if(question =="Avocado"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-1c896723_590x.jpg?v=152263132";
+            }
+            
+            if(question =="Beets"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-47983dab_590x.jpg?v=1522697436";
+            }
+            if(question =="Broccoli"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-5f5123b4_590x.jpg?v=1522899355";
+            }
+            if(question =="Butternut squash"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-6fe192eb_590x.jpg?v=1522899552";
+            }
+            if(question =="Cabbage"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-3bf10530_590x.jpg?v=1522899698";
+            }
+            if(question =="Carrot"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-d735b66a_590x.jpg?v=1522900089";
+            }
+            if(question =="Cauliflower"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-ffb1389f_590x.jpg?v=1522900577";
+            }
+            if(question =="Corn"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-255ee4a1_590x.jpg?v=1522901131";
+            }
+            if(question =="Cucumber"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-7be27000_590x.jpg?v=1522901345";
+            }
+            if(question =="Eggplant"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-b2223ac0_590x.jpg?v=1522901611";
+            }
+            if(question =="Fennel"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-622b7d5f_590x.jpg?v=1522901990";
+            }
+            if(question =="Garlic"){
+            	var option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-e8307b29_590x.jpg?v=1522902538";
+            }
+            if(question =="Jalapeno Pepper"){
+            	var option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-bc99ebcc_590x.jpg?v=1524197613";
+            }
+            if(question =="Kale"){
+            	var option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-dbfb8434_590x.jpg?v=1522945580";
+            }
+            if(question =="Kohlrabi" || question =="Kholrabi"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-0aee0c1e_590x.jpg?v=1522985670";
+            }
+            if(question =="Onion"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-85998f0f_590x.jpg?v=1522985927";            
+            }
+            if(question =="French Breakfast Radish"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-69146cd0_590x.jpg?v=1522902268";
+            }
+            if(question =="Sugar Snap Pea"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-9173ff90_590x.jpg?v=1522986116";
+            }
+            if(question =="French Breakfast Radish" || question =="Breakfast Radish" || question =="Radish"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-69146cd0_590x.jpg?v=1522902268";
+            }
+            if(question =="Swiss Chard"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-1717cc75_590x.jpg?v=1522986360";
+            }
+            if(question =="Tomato"){
+            	option = "https://cdn.shopify.com/s/files/1/2741/9410/products/mockup-c77ebd21_590x.jpg?v=1522986622"; 					
+            } 
+    		
+    		return option;
+  
+  }
+  function tie_breaker(obj){ 
+    
+    $('.extra-div').hide(); 
+    
+    var j1 = $(obj).data('j1');
+    var j2 = $(obj).data('j2');
+    var j3 = $(obj).data('j3');
+    var j4 = $(obj).data('j4');
+    //var j5 = $(obj).data('j4');
+    console.log('1. facebook social'+$('.share-facebook').attr('href'));
+    
+    var base_url = $('.share-facebook').attr('href');
+    $('.share-facebook').attr('href',base_url+''+j4);
+    $('.resultProduct h1').html('<a href="'+ j4  +'">'+ j1 + '</a>');  
+    $('.resultProduct .grid img').attr('src', j2);  
+    $('.resultProduct .resultBody').html(j3);          
+    $('.resultProduct .resLink a').attr('href', j4);
+   // $('.tie_img').attr('src', j5);
+    var tie_img = get_tie_img(j1);
+    $('.tie_img').attr('src', tie_img);
+    $('.resultProduct').fadeIn('slow');
+    $('.quiz_main').css('background-image', 'none');
+    $('.prompt-link').attr('href','https://edibleschoolyard.org/');
+    
+    
+   
+  }
+</script>
+
+<style> 
+  html, body{
+    overflow: hidden;
+  }
+  .quiz_main {
+    position: fixed;
+    background-color: #fff;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    overflow: auto;
+    padding: 2rem;
+    background-image: url(//cdn.shopify.com/s/files/1/2741/9410/t/5/assets/spirit-bg.png?v=10174153863717734548);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }  
+  .quiz_outer.quiz_hide{
+    display: none;
+  }
+  .quiz_outer input[type=radio]{
+    display: none;
+  }
+  .quiz_outer label:hover, .quiz_outer input[type=radio]:checked + label{
+  /*   color: #000; */
+    transition: color 150ms ease-in-out;
+  } 
+  .quiz_start {
+    min-height: 450px;
+    position: relative;
+  }  
+  .quiz_start h1 {
+    font-size: 110px;
+        font-size: 6vw;
+    text-align: center;
+    margin: 0;
+    color: rgba(28,119,176,1);
+    font-family: Solo-Bold;
+  } 
+  .quiz_start a.take_quiz {
+    /*position: absolute; 
+    top: 45%;
+    right: 100px;*/
+    font-family: Solo-Bold;
+    font-size: x-large;
+    color: #fff;
+    padding: 20px 10px;
+    border: 0px;
+    width: 280px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 40px;
+  }
+  .quiz_start a.take_quiz:hover {
+    color: #fff;
+     border:0px;
+  }
+  .quiz_start h1:after {
+    border-bottom: none;
+  }
+  .quiz_outer h3 {
+    margin: 0;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 600;
+    color: rgba(28,119,176,1);
+    font-family: Solo-Bold;
+  } 
+  .quiz_content label {
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: 2px;
+    color: rgba(28,119,176,1);
+    font-family: Solo-Bold;
+  }
+  .resultProduct {
+    background-color: #fff;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+  /*   box-shadow: 0px 0px 15px 0px #000;
+    overflow: auto; */
+    height: 100%;
+  } 
+  .resultProduct h1, .resultProduct h1 a{
+    font-family: Solo-Bold;
+    color: rgba(28,119,176,1);
+  }
+  .resultBody {
+    padding-right: 40px;
+    /* font-family: Solo-Bold; */
+    color: rgba(28,119,176,1);
+    font-size: 17px;
+    text-transform: none;
+  } 
+  .resLink a.btn ,.resLink a.btn:hover, .resLink a.btn:focus{
+    font-family: Solo-Bold;
+    font-size: 18px;
+    background-color: rgba(28,119,176,1);
+    color: #fff;
+  }
+  .res_imag img{
+       width: 50%;
+    max-height: 350px;
+    margin-top: 20px;
+  }
+  .social-sharing{
+      margin-top: 50px;
+  }
+  @media screen and (max-width: 768px){
+    .quiz_start {
+      min-height: 400px;
+    }
+    .quiz_main {
+      padding: 4rem 1rem;
+      background-position: center bottom 100px;
+    }
+    .quiz_outer h3 {
+      font-size: 21px;
+    }
+    .quiz_content label {
+      font-size: 18px;
+      letter-spacing: 1px;
+    }
+   
+    .resultBody {
+      padding: 0 10px;
+    }
+    .quiz_start h1{    font-size: 11vw;}
+    .quiz_start a.take_quiz {
+    position: static;
+    bottom: 100px;
+    right: 100px;
+    font-family: Solo-Bold;
+    font-size: larger;
+    color: #fff;
+    padding: 17px 10px;
+    border: 0px;
+    width: 250px;
+    margin: 0 auto;
+    display: block;
+          margin-top: 60px;
+	}
+  }
+</style></div>
+
+      
+        </div>
+      
+    </main>
+
+    <hr class="hr--large">
+
+    <div id="shopify-section-footer" class="shopify-section"><footer class="site-footer small--text-center" role="contentinfo">
+  <div class="wrapper">
+
+    <div class="grid-uniform">
+
+      
+      
+
+      
+      
+
+      
+      
+      
+
+      
+      
+
+      
+
+      
+        <div class="grid__item one-third small--one-whole">
+          <ul class="no-bullets site-footer__linklist">
+            
+
+      
+      
+
+              <li><a href="/search">Search</a></li>
+
+            
+          </ul>
+        </div>
+      
+
+      
+        <div class="grid__item one-third small--one-whole">
+            <ul class="no-bullets social-icons">
+              
+                <li>
+                  <a href="https://www.facebook.com/farmbelly/" title="Farmbelly on Facebook">
+                    <span class="icon icon-facebook" aria-hidden="true"></span>
+                    Facebook
+                  </a>
+                </li>
+              
+              
+                <li>
+                  <a href="https://twitter.com/eatlikeafarmer" title="Farmbelly on Twitter">
+                    <span class="icon icon-twitter" aria-hidden="true"></span>
+                    Twitter
+                  </a>
+                </li>
+              
+              
+                <li>
+                  <a href="https://www.pinterest.com/farmbelly/" title="Farmbelly on Pinterest">
+                    <span class="icon icon-pinterest" aria-hidden="true"></span>
+                    Pinterest
+                  </a>
+                </li>
+              
+              
+                <li>
+                  <a href="https://www.instagram.com/farmbelly/" title="Farmbelly on Instagram">
+                    <span class="icon icon-instagram" aria-hidden="true"></span>
+                    Instagram
+                  </a>
+                </li>
+              
+              
+              
+              
+              
+              
+              
+            </ul>
+        </div>
+      
+
+      <div class="grid__item one-third small--one-whole large--text-right">
+        <p>&copy; 2020, <a href="/" title="">Farmbelly</a><br><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></p>
+        
+          
+          <ul class="inline-list payment-icons">
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-american_express" aria-hidden="true"></span>
+                    <span class="fallback-text">american express</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-apple_pay" aria-hidden="true"></span>
+                    <span class="fallback-text">apple pay</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-diners_club" aria-hidden="true"></span>
+                    <span class="fallback-text">diners club</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-discover" aria-hidden="true"></span>
+                    <span class="fallback-text">discover</span>
+                  </span>
+                </li>
+              
+            
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-jcb" aria-hidden="true"></span>
+                    <span class="fallback-text">jcb</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-master" aria-hidden="true"></span>
+                    <span class="fallback-text">master</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-paypal" aria-hidden="true"></span>
+                    <span class="fallback-text">paypal</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-shopify_pay" aria-hidden="true"></span>
+                    <span class="fallback-text">shopify pay</span>
+                  </span>
+                </li>
+              
+            
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-visa" aria-hidden="true"></span>
+                    <span class="fallback-text">visa</span>
+                  </span>
+                </li>
+              
+            
+          </ul>
+        
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+
+</div>
+
+  </div>
+
+  
+  <script>
+    
+  </script>
+
+  
+  
+    <!-- /snippets/ajax-cart-template.liquid -->
+
+  <script id="CartTemplate" type="text/template">
+  
+    <form action="/cart" method="post" novalidate class="cart ajaxcart">
+      <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+        {{#items}}
+        <div class="ajaxcart__product">
+          <div class="ajaxcart__row" data-line="{{line}}">
+            <div class="grid">
+              <div class="grid__item one-quarter">
+                <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+              </div>
+              <div class="grid__item three-quarters">
+                <div class="ajaxcart__product-name--wrapper">
+                  <a href="{{url}}" class="ajaxcart__product-name">{{{name}}}</a>
+                  {{#if variation}}
+                    <span class="ajaxcart__product-meta">{{variation}}</span>
+                  {{/if}}
+                  {{#properties}}
+                    {{#each this}}
+                      {{#if this}}
+                        <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                      {{/if}}
+                    {{/each}}
+                  {{/properties}}
+                </div>
+
+                <div class="grid--full display-table">
+                  <div class="grid__item display-table-cell one-half">
+                    <div class="ajaxcart__qty">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}" aria-label="Reduce item quantity by one">
+                        <span class="icon icon-minus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">&minus;</span>
+                      </button>
+                      <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+                        <span class="icon icon-plus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">+</span>
+                      </button>
+                    </div>
+                  </div>
+                  <div class="grid__item display-table-cell one-half text-right">
+                    {{#if discountsApplied}}
+                      <small class="ajaxcart__price--strikethrough">{{{price}}}</small>
+                      <span class="ajaxcart__price">
+                        {{{discountedPrice}}}
+                      </span>
+                    {{else}}
+                      <span class="ajaxcart__price">
+                        {{{price}}}
+                      </span>
+                    {{/if}}
+                  </div>
+                </div>
+                {{#if discountsApplied}}
+                  <div class="grid--full display-table">
+                    <div class="grid__item text-right">
+                      {{#each discounts}}
+                        <small class="ajaxcart__discount">{{this.title}}</small>
+                      {{/each}}
+                    </div>
+                  </div>
+                {{/if}}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/items}}
+
+        
+      </div>
+      <div class="ajaxcart__footer ajaxcart__footer--fixed">
+        <div class="grid--full">
+          <div class="grid__item two-thirds">
+            <p class="ajaxcart__subtotal">Subtotal</p>
+          </div>
+          <div class="grid__item one-third text-right">
+            <p class="ajaxcart__subtotal">{{{totalPrice}}}</p>
+          </div>
+        </div>
+        {{#if totalCartDiscount}}
+          <p class="ajaxcart__savings text-center">{{{totalCartDiscount}}}</p>
+        {{/if}}
+        <p class="ajaxcart__note text-center">Shipping, taxes, and discounts calculated at checkout.</p>
+        <button type="submit" class="btn--secondary btn--full cart__checkout" name="checkout">
+          Check Out <span class="icon icon-arrow-right" aria-hidden="true"></span>
+        </button>
+      </div>
+    </form>
+  
+  </script>
+  <script id="AjaxQty" type="text/template">
+  
+    <div class="ajaxcart__qty">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  
+  </script>
+  <script id="JsQty" type="text/template">
+  
+    <div class="js-qty">
+      <button type="button" class="js-qty__adjust js-qty__adjust--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <button type="button" class="js-qty__adjust js-qty__adjust--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  
+  </script>
+
+  
+
+  
+
+  <div id="SearchModal" class="mfp-hide">
+    <!-- /snippets/search-bar.liquid -->
+
+
+
+
+
+<form action="/search" method="get" class="input-group search-bar search-bar--modal" role="search">
+  
+  <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  <span class="input-group-btn">
+    <button type="submit" class="btn icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+  </span>
+</form>
+
+  </div>
+
+</body>
+</html>

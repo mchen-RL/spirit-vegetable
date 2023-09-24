@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20201203093954im_/https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 09:39:54 Dec 03, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:45:33 Sep 23, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.068
+  exclusion.robots.policy: 0.057
+  cdx.remote: 0.103
+  esindex: 0.01
+  LoadShardBlock: 4311.012 (6)
+  PetaboxLoader3.datanode: 1564.427 (8)
+  load_resource: 1163.832 (2)
+  PetaboxLoader3.resolve: 1097.853 (2)
+*/
